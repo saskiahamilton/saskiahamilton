@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saskiahamilton
-- 👀 I’m interested in: spatial statistics, machine learning, point process models and their applications. 
-- 🌱 I’m currently learning: R, python, Bayesian statistics
+- 👀 I’m interested in: spatial statistics, machine learning, point process models with thinning and their applications. 
+- 🌱 I’m currently learning: R, python, SQL, Bayesian statistics
 - 📫 How to reach me: hamish24@wfu.edu
 
 <!---
